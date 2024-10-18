@@ -4,7 +4,7 @@
 <h3 align="left">Connect With Me:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Sushil-890&show_icons=true&locale=en" alt="Sushil-890" />
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Sushil-890&" alt="Sushil-890" /></p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Sushil-890&" alt="Sushil-890" /></p>
 <br><br>
 <br><br>
 <br><br>
